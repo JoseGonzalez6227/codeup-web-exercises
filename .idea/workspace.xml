@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10ca46c0-36b7-4791-9f8f-35adb99c60ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.html" beforeDir="false" afterPath="$PROJECT_DIR$/github.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,28 +19,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello.html">
+        <entry file="file://$PROJECT_DIR$/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="-21">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/welcome.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-724">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/github.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
+            <state relative-caret-position="61">
+              <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
                 <element signature="e#476#482#0" expanded="true" />
                 <element signature="e#511#517#0" expanded="true" />
@@ -50,10 +42,6 @@
                 <element signature="e#736#742#0" expanded="true" />
                 <element signature="e#749#755#0" expanded="true" />
                 <element signature="e#765#771#0" expanded="true" />
-                <element signature="e#752#758#0" expanded="true" />
-                <element signature="e#799#805#0" expanded="true" />
-                <element signature="e#845#851#0" expanded="true" />
-                <element signature="e#894#900#0" expanded="true" />
                 <element signature="e#1119#1125#0" expanded="true" />
                 <element signature="e#1126#1132#0" expanded="true" />
                 <element signature="e#1133#1139#0" expanded="true" />
@@ -138,6 +126,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/forms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -156,14 +153,15 @@
         <option value="$PROJECT_DIR$/hello.html" />
         <option value="$PROJECT_DIR$/welcome.html" />
         <option value="$PROJECT_DIR$/github.html" />
+        <option value="$PROJECT_DIR$/forms.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="698" />
-    <option name="y" value="56" />
+    <option name="y" value="24" />
     <option name="width" value="725" />
-    <option name="height" value="752" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -219,15 +217,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559140535670</updated>
-      <workItem from="1559140536903" duration="21850000" />
+      <workItem from="1559140536903" duration="28644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21850000" />
+    <option name="totallyTimeSpent" value="28644000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="56" width="725" height="752" extended-state="0" />
+    <frame x="698" y="24" width="725" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -240,7 +238,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33636364" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33636364" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -273,15 +271,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/welcome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-724">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-21">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/github.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
+        <state relative-caret-position="61">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
             <element signature="e#476#482#0" expanded="true" />
             <element signature="e#511#517#0" expanded="true" />
@@ -292,10 +290,6 @@
             <element signature="e#736#742#0" expanded="true" />
             <element signature="e#749#755#0" expanded="true" />
             <element signature="e#765#771#0" expanded="true" />
-            <element signature="e#752#758#0" expanded="true" />
-            <element signature="e#799#805#0" expanded="true" />
-            <element signature="e#845#851#0" expanded="true" />
-            <element signature="e#894#900#0" expanded="true" />
             <element signature="e#1119#1125#0" expanded="true" />
             <element signature="e#1126#1132#0" expanded="true" />
             <element signature="e#1133#1139#0" expanded="true" />
@@ -376,6 +370,13 @@
             <element signature="e#2226#2232#0" expanded="true" />
             <element signature="e#2238#2244#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
         </state>
       </provider>
     </entry>
