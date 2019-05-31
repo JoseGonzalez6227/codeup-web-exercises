@@ -1,0 +1,38 @@
+body {
+    background-image: url("../img/bg.png");
+}
+.fancy-header {
+    text-align: center;
+    color: papayawhip;
+}
+.h1, h3 {
+    color: papayawhip;
+    text-decoration: underline;
+}
+.ul, li {
+    list-style-type: georgian;
+}
+.table, th, td {
+    border: 1px solid skyblue;
+    font-size: small;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+/* visited link */
+a:visited {
+    color: yellow;
+}
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+/* selected link */
+a:active {
+    color: blue;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
