@@ -5,16 +5,21 @@ body {
     text-align: center;
     color: papayawhip;
 }
-.h1, h3 {
+h1, h3 {
     color: papayawhip;
     text-decoration: underline;
 }
-.ul, li {
+ol, li {
+    list-style-type: circle ;
+}
+ul, li {
     list-style-type: georgian;
 }
-.table, th, td {
-    border: 1px solid skyblue;
-    font-size: small;
+table, th, tr, td {
+    text-align: center;
+    border: 1px solid hotpink;
+    font-size: large;
+    padding: 1em;
 }
 /* unvisited link */
 a:link {
