@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10ca46c0-36b7-4791-9f8f-35adb99c60ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/twitter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semantic-exercise.html" beforeDir="false" afterPath="$PROJECT_DIR$/semantic-exercise.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/twitter.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/twitter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter.html" beforeDir="false" afterPath="$PROJECT_DIR$/twitter.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,17 +18,40 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twitter.html">
+        <entry file="file://$PROJECT_DIR$/facebook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-608" />
+            <state relative-caret-position="90">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding>
+                <element signature="e#914#920#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/texas-flag.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/twitter.css">
+        <entry file="file://$PROJECT_DIR$/CSS/texas.flag.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/facebook.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-end-line="65" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -68,7 +90,14 @@
         <option value="$PROJECT_DIR$/CSS/messages.css" />
         <option value="$PROJECT_DIR$/.idea/twitter.css" />
         <option value="$PROJECT_DIR$/twitter.css" />
+        <option value="$PROJECT_DIR$/texas.flag.css" />
+        <option value="$PROJECT_DIR$/texas-flag.html" />
+        <option value="$PROJECT_DIR$/twitter.html" />
         <option value="$PROJECT_DIR$/CSS/twitter.css" />
+        <option value="$PROJECT_DIR$/facebook.css" />
+        <option value="$PROJECT_DIR$/facebook.html" />
+        <option value="$PROJECT_DIR$/CSS/facebook.css" />
+        <option value="$PROJECT_DIR$/CSS/texas.flag.css" />
       </list>
     </option>
   </component>
@@ -76,7 +105,7 @@
     <option name="x" value="676" />
     <option name="y" value="23" />
     <option name="width" value="747" />
-    <option name="height" value="798" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -145,18 +174,18 @@
       <updated>1559140535670</updated>
       <workItem from="1559140536903" duration="61079000" />
       <workItem from="1559578466649" duration="6793000" />
-      <workItem from="1559589416999" duration="10468000" />
+      <workItem from="1559589416999" duration="26311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78340000" />
+    <option name="totallyTimeSpent" value="94183000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="23" width="747" height="798" extended-state="0" />
+    <frame x="676" y="23" width="747" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25815603" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25815603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -190,13 +219,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/github.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -294,13 +316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/bg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -364,13 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/messages.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -395,15 +403,69 @@
     <entry file="file://$PROJECT_DIR$/CSS/twitter.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/twitter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/twitter.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="554">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="e#914#920#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/facebook.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texas-flag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/texas.flag.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
