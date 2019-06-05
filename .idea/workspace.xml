@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10ca46c0-36b7-4791-9f8f-35adb99c60ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/twitter.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/twitter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitter.html" beforeDir="false" afterPath="$PROJECT_DIR$/twitter.html" afterDir="false" />
-    </list>
+    <list default="true" id="10ca46c0-36b7-4791-9f8f-35adb99c60ab" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,18 +15,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facebook.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding>
-                <element signature="e#914#920#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/texas-flag.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -41,17 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/texas.flag.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS/facebook.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-end-line="65" selection-end-column="1" />
+            <state relative-caret-position="335">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
             </state>
           </provider>
         </entry>
@@ -174,18 +150,18 @@
       <updated>1559140535670</updated>
       <workItem from="1559140536903" duration="61079000" />
       <workItem from="1559578466649" duration="6793000" />
-      <workItem from="1559589416999" duration="26311000" />
+      <workItem from="1559589416999" duration="26587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94183000" />
+    <option name="totallyTimeSpent" value="94459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="23" width="747" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25815603" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25815603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,7 +178,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28470254" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.28368795" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -464,8 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/texas.flag.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="335">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
