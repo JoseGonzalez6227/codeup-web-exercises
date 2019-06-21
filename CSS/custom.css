@@ -1,0 +1,52 @@
+.jumbotron {
+ background-image: url("../img/pizza.png");
+}
+.login {
+    height: 10px;
+    width: auto;
+}
+a{
+    color: grey;
+}
+h1 {
+    width: 100%;
+    text-align: center;
+}
+.container {
+    background-color: rgba(255, 255, 255, 0.5);
+    opacity: 10%;
+    max-width: 100%;
+}
+.badge {
+    background-color: grey;
+}
+.card-header {
+    background-color: red;
+    color: white;
+}
+.btn {
+    float: right;
+    background-color: red;
+    border: red;
+}
+.Crispy-Header {
+    background-color: lightgray;
+    padding: 12px;
+}
+.Hand-Header {
+    background-color: lightgray;
+    padding: 12px;
+}
+.list-group-item {
+    padding: 20px;
+}
+.btn-group {
+    float: right;
+}
+.cheese-header{
+    background-color: lightgray;
+    padding: 12px;
+}
+.zip {
+    margin-left: 30px;
+}
