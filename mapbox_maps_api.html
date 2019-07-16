@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Favourite Restaurants</title>
+
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body {
+            margin: 15px;
+        }
+        h1 {
+            text-align: center;
+            color: mediumpurple;
+        }
+        /*#h {*/
+        /*    text-align: center;*/
+        /*    color: purple;*/
+        /*    line-height: ;*/
+        /*}*/
+        form {
+            padding-bottom: 15px;
+            padding-left: 9%;
+        }
+        .flex-container button {
+            display: flex;
+            flex-flow: row wrap;
+            padding: auto;
+        }
+        #map {
+            width: 130vh;
+            height: 80vh;
+            margin: 0 auto;
+        }
+        #zoom5{
+            color: purple;
+            background-color: mediumpurple;
+        }
+        #zoom15{
+            color: purple;
+            background-color: mediumpurple;
+        }
+        #zoom20{
+            color: purple;
+            background-color: mediumpurple;
+        }
+    </style>
+</head>
+<body>
+
+<h1>My Favourite Restaurants</h1>
+<!--<h1 id="h">My Favourite Restaurants</h1>-->
+
+<div class="flex-container">
+    <button id="zoom5">Zoom x5</button>
+    <button id="zoom15">Zoom x15</button>
+    <button id="zoom20">Zoom x20</button>
+</div>
+
+<div id='map'></div>
+<script src="js/keys.js"></script>
+<script src="js/mapbox-geocoder-utils.js"></script>
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
+<script>
+    mapboxgl.accessToken = mapboxKey;
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v10',
+        center: [-98.488596, 29.416425],
+        zoom: 14
+    });
+    // MARKERS AND POPUPS
+    var marker = new mapboxgl.Marker()
+        .setLngLat([-98.611328, 29.593210])
+        .addTo(map);
+    var popup = new mapboxgl.Popup()
+        .setLngLat([-98.611328, 29.593210])
+        .setHTML("<p>Whiskey Tree <br> " +
+            "<strong>Address:</strong> 15900 La Cantera Pkwy </p>");
+    var marker2 = new mapboxgl.Marker()
+        .setLngLat([-98.596646, 29.587590])
+        .addTo(map);
+    var popup2 = new mapboxgl.Popup()
+        .setLngLat([-98.596646, 29.587590])
+        .setHTML("<p>Pappadeaux <br> <strong>Address:</strong> 15715 I-10 </p>");
+    var marker3 = new mapboxgl.Marker()
+        .setLngLat([-98.597514, 29.572151])
+        .addTo(map);
+    var popup3 = new mapboxgl.Popup()
+        .setLngLat([-98.597514, 29.572151])
+        .setHTML("<p>Sapporo <br> " +
+            "<strong>Address:</strong> 1401 S Flores Street </p>");
+    marker.setPopup(popup);
+    marker2.setPopup(popup2);
+    marker3.setPopup(popup3);
+    // TARGET IDs
+    var zoomIn5 = document.getElementById('zoom5');
+    var zoomIn15 = document.getElementById('zoom15');
+    var zoomIn20 = document.getElementById('zoom20');
+    //FUNCTIONS TO CHANGE ZOOM
+    zoomIn5.addEventListener('click', zoomFive, true);
+    function zoomFive (event) {
+        map.setZoom(5);
+    }
+    zoomIn15.addEventListener('click', zoomFifteen, true);
+    function zoomFifteen (event) {
+        map.setZoom(15);
+    }
+    zoomIn20.addEventListener('click', zoomTwenty, true);
+    function zoomTwenty (event) {
+        map.setZoom(20);
+    }
+    var restaurants = [
+        {
+            restaurant: "Whiskey Cake",
+            address: "15900 La Cantera Pkwy"
+        },{
+            restaurant: "Pappadeaux ",
+            address: "15715 I-10"
+        },{
+            restaurant: "Sapporo",
+            address: "5638 W Hausman Rd"
+        }
+    ];
+</script>
+</body>
+</html>
