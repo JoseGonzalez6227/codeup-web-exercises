@@ -39,6 +39,7 @@ const email = 'joey@codeup.com';
 const languages = ['html', 'css', 'javascript'];
 
 // TODO: rewrite the object literal using object property shorthand
+// remove property name because you already have the variable
 users.push({
   name,
   email,
@@ -89,6 +90,6 @@ let list = '<ul>';
   // TODO: rewrite the assignment below to use template strings
 //   list += '<li>' + developer + '</li>';
 // });
-    list += `<li> + ${developer} + </li>`;
+    list += `<li>${developer}</li>`;
   }
 list += '</ul>';
